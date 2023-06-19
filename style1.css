@@ -219,6 +219,7 @@ section{
     margin-bottom: 30px;
 }
 .about p{
+    padding-top: 10px;
     font-size: 1.3em;
     font-weight: 500;
     line-height: 1.7;
@@ -245,14 +246,13 @@ section .timeline{
     background-position: center;
 }
 
-.timeline iframe{
-    scale: 100%;
+.timeline h2{
+    padding-bottom: 0px;
 }
 .time-img{
-    width: 95%;
-    padding: 0;
+    width: 100%;
+    padding: 0px;
     position: relative;
-    margin-left: 50px;
     display: flex;
 }
 .dtls{
